@@ -2,6 +2,9 @@
   {
     "type": "image",
     "src": "assets/apps/projects/project1/patrickmahomes.webp",
+    "images": [
+      "assets/apps/projects/project1/goosebumps.webp"
+    ],
     "title": "Patrick Mahomes",
     "software": "photoshop",
     "description": "An exercise in player cutouts and shadow composition, this piece was built to explore depth and movement. I chose two contrasting uniforms to create separation between elements and build a dynamic rhythm across the layout.",
